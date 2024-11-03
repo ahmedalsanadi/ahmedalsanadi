@@ -13,16 +13,6 @@ Welcome to my GitHub profile! I’m Ahmed, a dedicated **Full-Stack Developer** 
 
 ---
 
-### 🛠️ Skills & Technologies
-- **Frontend**: React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend**: Laravel, PHP, MySQL, RESTful APIs
-- **Version Control**: Git, GitHub
-- **Testing & Deployment**: Postman, Vercel, Netlify
-- **Mobile Development**: Familiar with Flutter and Dart
-- **Design Tools**: Figma, Agile Methodologies
-
----
-
 ### 🚀 Featured Projects
 
 1. **[FinBiz - Financial Dashboard](https://github.com/ahmedalsanadi/finbiz)**  
@@ -35,15 +25,6 @@ Welcome to my GitHub profile! I’m Ahmed, a dedicated **Full-Stack Developer** 
    A feature-rich app built with Next.js, featuring advanced search, personalized watchlists, and Firebase authentication.  
    📚 **Technologies:** Next.js, React, Firebase
 
-3. **[Biccas Landing Page](https://github.com/ahmedalsanadi/Biccas-Landing-Page-Ahmed-Al-Sanadi)**  
-   📝 **[Live Demo](https://ahmedalsanadi.github.io/Biccas-Landing-Page-Ahmed-Al-Sanadi/)**  
-   A modern landing page for a productivity tool, showcasing clean design and intuitive navigation.  
-   🛠️ **Technologies:** JavaScript, HTML, CSS
-
-4. **[My Blog API](https://github.com/ahmedalsanadi/my-blog-api)**  
-   A RESTful API for managing blog posts and user authentication using JWT.  
-   🔒 **Technologies:** PHP, JWT, RESTful APIs
-
 ---
 
 ### 📈 GitHub Stats
@@ -54,10 +35,9 @@ Welcome to my GitHub profile! I’m Ahmed, a dedicated **Full-Stack Developer** 
 ### 🌐 Let's Connect!
 I love networking with fellow developers and tech enthusiasts! Feel free to reach out:
 
-- 🐦 [Twitter](https://twitter.com/ahmedalsanadi)
-- 💼 [LinkedIn](https://linkedin.com/in/ahmedalsanadi)
 - 📧 Email: [AhmedAlsanadi40@gmail.com](mailto:AhmedAlsanadi40@gmail.com)
-
 ---
 
 Thank you for visiting my profile! Dive into my projects and let’s collaborate to create something amazing together! 🚀
+
+---
