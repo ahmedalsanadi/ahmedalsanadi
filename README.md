@@ -13,20 +13,6 @@ Welcome to my GitHub profile! I’m Ahmed, a dedicated **Full-Stack Developer** 
 
 ---
 
-### 🚀 Featured Projects
-
-1. **[FinBiz - Financial Dashboard](https://github.com/ahmedalsanadi/finbiz)**  
-   📝 **[Live Demo](https://main--finbiz-al-sanadi.netlify.app/)**  
-   A responsive and interactive dashboard built with React and Chart.js, featuring smooth animations and user-friendly data visualizations.  
-   🔍 **Technologies:** React, Chart.js, Tailwind CSS
-
-2. **[Movie Streaming App](https://github.com/ahmedalsanadi/movie-streaming-app)**  
-   📝 **[Live Demo](https://movie-streaming-app-virid.vercel.app/)**  
-   A feature-rich app built with Next.js, featuring advanced search, personalized watchlists, and Firebase authentication.  
-   📚 **Technologies:** Next.js, React, Firebase
-
----
-
 ### 📈 GitHub Stats
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedalsanadi&show_icons=true&theme=radical)
 
@@ -36,8 +22,4 @@ Welcome to my GitHub profile! I’m Ahmed, a dedicated **Full-Stack Developer** 
 I love networking with fellow developers and tech enthusiasts! Feel free to reach out:
 
 - 📧 Email: [AhmedAlsanadi40@gmail.com](mailto:AhmedAlsanadi40@gmail.com)
----
-
-Thank you for visiting my profile! Dive into my projects and let’s collaborate to create something amazing together! 🚀
-
 ---
